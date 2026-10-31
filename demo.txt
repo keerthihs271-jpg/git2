@@ -1,2 +1,4 @@
 hello git this is my first git
 this line is added for remote repository
+hello git this is my first git 
+this is new line add from computer 
